@@ -2,6 +2,7 @@ brew "cdargs"
 brew "git"
 brew "html2text"
 brew "httpie"
+brew "watchman"
 
 cask "1password"
 cask "adobe-acrobat-reader"
