@@ -1,3 +1,9 @@
+tap "homebrew/bundle"
+tap "homebrew/cask-versions"
+tap "rouanw/brewpack"
+tap "wix/brew"
+
+brew "applesimutils"
 brew "automake"
 brew "bison"
 brew "cdargs"
