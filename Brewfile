@@ -5,6 +5,7 @@ tap "wix/brew"
 
 brew "applesimutils"
 brew "automake"
+brew "awscli"
 brew "bat"
 brew "bison"
 brew "cdargs"
