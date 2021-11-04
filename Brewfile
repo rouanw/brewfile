@@ -30,6 +30,7 @@ brew "ruby-build"
 brew "readline"
 brew "hashicorp/tap/terraform"
 brew "watchman"
+brew "yarn"
 brew "zlib"
 
 cask "1password"
